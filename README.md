@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+### I am cbncchv. a game developer. I make games.
+(former game developer on Roblox. now making games on Unity and Godot.)
+
+
+
+
 <!--
 **cbncchv/cbncchv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
