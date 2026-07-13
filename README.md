@@ -1,8 +1,7 @@
 ## Hi there 👋
 
 ### I am cbncchv. a game developer. I make games.
-(former game developer on Roblox. now making games on Unity and Godot.)
-
+<!-- (former game developer on Roblox. now making  games on Unity and Godot.) -->
 
 
 
