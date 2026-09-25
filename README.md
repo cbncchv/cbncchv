@@ -3,8 +3,6 @@
 i am cbncchv. a curious programmer and game developer. i do programming on my games as one of my hobbies.
 <!-- (former game developer on Roblox. now making  games on Unity and Godot.) -->
 
-`its a bit of a mess right now, im dumping stuff for now`
-
 # Experience
 
 ## Game Engines
