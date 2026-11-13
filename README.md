@@ -1,9 +1,10 @@
 # hi
 
-i am cbncchv. a curious programmer and game developer. i do programming on my games as one of my hobbies.
+intermediate programmer and game developer. i do some programming for my games as a hobby.
 <!-- (former game developer on Roblox. now making  games on Unity and Godot.) -->
 
 # Experience
+<!-- put whatever in here, or create a dedicated website instead -->
 
 ## Game Engines
 game engines i've tried by myself.
